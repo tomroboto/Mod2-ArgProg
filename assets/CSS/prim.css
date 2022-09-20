@@ -1,0 +1,82 @@
+body{
+    background: #642B73;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #C6426E, #642B73);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #C6426E, #642B73); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.nav-link.active.fw-normal{
+    color:white;
+}
+.navbar{
+    background: #41295a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navbar-toggler:hover{
+    color:rgb(255, 255, 255)
+}
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color:rgb(201, 40, 201)
+}
+i.fa-brands.fa-github.fa-2xl:hover{
+    color:rgb(255, 94, 0)
+}
+i.fa-solid.fa-right-to-bracket.fa-2xl:hover{
+    color:gray
+}
+i.fa-solid.fa-user.fa-2xl:hover{
+    color:gray
+}
+.banner {
+    width: 100%;;
+}
+.modal-backdrop.show {
+    width: 0%;
+    height: 0%;
+}
+img.rounded-circle {
+    margin-top: 5%;
+    max-height: 13rem;
+    max-width: 13rem;
+}
+.container.bg-secondary {
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+}
+img.banner {
+    margin-top: 0.7rem;
+    width: 100%;
+}
+.row {
+    margin-bottom: 0.3rem;
+}
+#name {
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+#titulo {
+    margin-top: 1rem;
+    text-align: start;
+    margin-left:1rem;
+}
+#parrafo {
+    text-align: start;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  p.d-md-none {
+    font-size: x-large;
+    margin-left: 2.5rem;
+    font-family: 'Times New Roman', serif;
+}
+#fnd {
+    background-color: gray;
+}
+#cancha{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
